@@ -4,7 +4,7 @@
   <img alt="Logo" src="/readme-assets/logo.png" width="80" />
   <h1>uvini-ranaweera.web.app</h1>
 
-  This is the first release of my personal website [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).<br></br>
+  The first release of my personal website [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).<br></br>
   
   ![demo](/readme-assets/demo.png "Demo")
   
