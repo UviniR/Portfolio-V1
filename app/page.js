@@ -69,13 +69,13 @@ export default function Home() {
                     <Link href={"http://university.com"} target={"_"} className={styles.uniLink}>
                       <b>University Name</b>
                     </Link>
-                    , country <br></br>
-                    <br></br>
+                    , country <br />
+                    <br /> 
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    <br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</br>
+                    <br />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
                     <span className="bio-text">
-                      <b>highlight text</b>
+                      <b>highlight text.</b>
                     </span>
                     <span className="cartoon-character"></span>
                   </p>
