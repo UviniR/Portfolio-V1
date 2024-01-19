@@ -49,7 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### 🪄 Customise to match your style & feel the magic!
 
 
-## 🎨 Colour Pallete
+## 🎨 Colour Palette
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
