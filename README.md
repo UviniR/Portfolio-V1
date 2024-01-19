@@ -6,8 +6,7 @@
 
   This is the first release of my personal website [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
-
-![demo](https://buffer.com/cdn-cgi/image/w%253D1000%252Cfit%253Dcontain%252Cq%253D90%252Cf%253Dauto/library/content/images/size/w1200/2023/10/free-images.jpg)
+![demo](/UI-Screenshots/landing.png "Landing Page")
 
 </center>
 
