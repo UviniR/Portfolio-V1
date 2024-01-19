@@ -15,7 +15,7 @@
 
 I'm pleased to welcome anyone interested in using my code to bring their website to life! 🚀 A little bit of acknowledgement goes a long way, so if you could give credit to my work by linking back to [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/), I'd be over the moon 🌝. 
 
-As you can read through my bio, I am a Business Science undergraduate. Thus, building this site from scratch was never a one-man show -- BIGGEST SHOUTOUT to [Ranul Dayarathna](https://ranul-navojith.web.app/) 🎉
+As you can read through my bio, I am a Business Science undergraduate. Thus, building this site from scratch was never a one-man show -- BIGGEST SHOUTOUT to [Ranul Dayarathne](https://ranul-navojith.web.app/) 🎉
 
 Thanks!
 
