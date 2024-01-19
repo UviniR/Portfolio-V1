@@ -32,7 +32,7 @@ export default function Home() {
               <h1 className={`col-md-8 py-lg-5 py-md-2 ${styles.coverText}`}>
                 {" "}
                 I&apos;m <b>Your Name</b> — Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{" "}
-                <span className={styles.gradientText}>anything you need to highlight</span>
+                <span className={styles.gradientText}>highlight text</span>
               </h1>
             </div>
             <div className="py-lg-5 py-3 d-flex align-items-center">
@@ -72,10 +72,11 @@ export default function Home() {
                     , country <br></br>
                     <br></br>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    <br>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</br>
                     <span className="bio-text">
-                      <b>what you do</b>
+                      <b>highlight text</b>
                     </span>
-                    , what you do!
                     <span className="cartoon-character"></span>
                   </p>
                 </div>

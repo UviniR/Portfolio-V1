@@ -1,9 +1,9 @@
 const publications = [
     {
         type: "Conference Paper",
-        title: "title",
-        conference: "conference name",
-        date: "date",
+        title: "Paper Title",
+        conference: "conference Name",
+        date: "Date",
         link: "https://doi.org"
     },
 ]

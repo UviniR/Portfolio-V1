@@ -1,34 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<center>
+  <img alt="Logo" src="UviniR/portfolio/public/logo.png" width="100" />
 
-First, run the development server:
+  ## Portfolio-Uvini Ranaweera - v1 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+  This is the first release of my personal website [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
+
+![demo](https://buffer.com/cdn-cgi/image/w%253D1000%252Cfit%253Dcontain%252Cq%253D90%252Cf%253Dauto/library/content/images/size/w1200/2023/10/free-images.jpg)
+
+</center>
+
+## 🌟 Welcome to Fork 
+
+I'm pleased to welcome anyone interested in using my code to bring their website to life! 🚀 A little bit of acknowledgment goes a long way; so if you could give credits to my work by linking back to [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/), I'd be over the moon 🌝. 
+
+As you can read through my bio, I am a Business Science undergraduate. Thus, building this site from scratch was never a one man show -- BIGGEST SHOUTOUT to [Ranul Dayarathna](https://ranul-navojith.web.app/) 🎉
+
+Thanks!
+
+## 🛠 Run it
+
+1. Clone the repository to your local machine
+
+   ```sh
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. Once the cloning process is completed, navigate into the cloned directory.
+
+   ```sh
+   cd Portfolio-V1-main
+   ```
+
+3. Install dependencies
+
+   ```sh
+   npm i
+   ```
+
+4. Start the development server
+
+   ```sh
+   npm run dev
+   ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 🪄 Customise to match your style & feel the magic!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## 🎨 Colour Pallete
+
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
+| Dark Navy      | ![#0f172a](https://via.placeholder.com/10/0f172a?text=+) `#0f172a` |
+| Aqua Marine    | ![#2dd4be](https://via.placeholder.com/10/2dd4be?text=+) `#2dd4be` |
+| Turquoise      | ![#5eead4](https://via.placeholder.com/10/5eead4?text=+) `#5eead4` |
+| Light Lavender | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
+| White          | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
+| Medium Blue    | ![#646ffe](https://via.placeholder.com/10/646ffe?text=+) `#646ffe` |
+| Bright Sky Blue| ![#14b2fa](https://via.placeholder.com/10/14b2fa?text=+) `#14b2fa` |
+| Pale Yellow    | ![#FCE694](https://via.placeholder.com/10/FCE694?text=+) `#FCE694` |
+
+
+## ℹ️ Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
