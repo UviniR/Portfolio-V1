@@ -1,4 +1,4 @@
-import Image01 from "@public/assets/travel/img5.png"
+import Image01 from "@public/assets/travel/img3.png"
 import Image02 from "@public/assets/travel/img1.png"
 import Image03 from "@public/assets/travel/img2.png"
 
