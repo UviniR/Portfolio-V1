@@ -24,13 +24,13 @@ Thanks!
 1. Clone the repository to your local machine
 
    ```sh
-   git clone https://github.com/UviniR/portfolio.git
+   git clone https://github.com/UviniR/Portfolio-V1.git
    ```
 
 2. Once the cloning process is completed, navigate into the cloned directory.
 
    ```sh
-   cd portfolio-main
+   cd portfolio-V1-main
    ```
 
 3. Install dependencies
