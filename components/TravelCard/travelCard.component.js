@@ -64,28 +64,6 @@ const TravelCard = () => {
 
   return (
     <div className="d-flex w-100 align-items-center overflow-scroll justify-content-start">
-      {/* <div className={`${styles.beforeCard} d-md-none d-lg-block col-lg-3 card p-0 text-center`} style={{ backgroundImage: `url(${travelData[prevIdx].img.src})` }}></div> */}
-
-      {/* <div className={`${styles.card}  col-lg-6 card p-0 text-center`} style={{ backgroundImage: `url(${travelData[currentIdx].img.src})` }}>
-        <div className={styles.overlay}>
-          <div className={`row px-3 justify-content-start align-items-end pb-4 ${styles.text}`}>
-            <div>
-            <p className={`m-0 text-start ${styles.textContent}`}>{travelData[currentIdx].place}</p>
-            <p className="m-0 fs-6 text-start fw-light">{travelData[currentIdx].country}</p>
-            </div>
-          </div>
-        </div>
-      </div> */}
-      {/* <div className={`${styles.afterCard} d-md-none d-lg-block col-lg-3 card p-0 text-center`} style={{ backgroundImage: `url(${travelData[nexttIdx].img.src})` }}></div> */}
-
-      {/* <div className="d-flex px-5 py-3 justify-content-center align-items-center">
-        <button className={`btn me-3 p-1 ${styles.arrowBtn}`} onClick={(e) => onIdxChange(false)}>
-          <AiOutlineArrowLeft size={15} />
-        </button>
-        <button className={`btn ms-3 p-1 ${styles.arrowBtn}`} onClick={(e) => onIdxChange(true)}>
-          <AiOutlineArrowRight size={15} />
-        </button>
-      </div> */}
       {travelData.map((e, idx) => (
         <div className={`${styles.card} col-6 mx-2 card p-0`} style={{ backgroundImage: `url(${e.img.src})` }} key={idx}>
           <div className={styles.overlay}>

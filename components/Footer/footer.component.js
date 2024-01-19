@@ -17,7 +17,7 @@ const Footer = () => {
     <>
       <div className={`d-flex pt-3 pb-3 justify-content-end px-4 align-items-center`}>
         <div className="row justify-content-center text-start pt-3">
-          <p className={`m-0 pe-5 ${styles.footerText}`}>Homemade by yours truly <BsFillSuitHeartFill /> <br /><span className={styles.footerTag}>Inspired by <Link className={`text-decoration-none ${styles.Link}`} target="_" href={"https://www.kantwon.com/"}>Kantwon</Link> & <Link target="_" className={`text-decoration-none ${styles.Link}`} href={"https://brittanychiang.com/"}>Brittany.</Link></span></p>
+          <p className={`m-0 pe-5 ${styles.footerText}`}>Homemade by yours truly <BsFillSuitHeartFill /> <br /><span className={styles.footerTag}>Inspired by <Link className={`text-decoration-none ${styles.Link}`} target="_" href={"https://uvini-ranaweera.web.app"}>Uvini.</Link> </span></p>
         </div>
         <div onClick={handleShow} className={`${styles.btn}`}>
           <Image src={box} width={80} height={85} alt="box" />
@@ -27,28 +27,18 @@ const Footer = () => {
       <Modal show={show} onHide={handleClose} centered size="lg" className={`${styles.background}`}>
 
         <Modal.Body className={`modal-body ${styles.card} px-5 py-5`}>
-          <h3 className={`text-start pb-3 ${styles.titles} ${styles.largeText} rounded`}>8 RANDOM FACTS 🎁 </h3>
+          <h3 className={`text-start pb-3 ${styles.titles} ${styles.largeText} rounded`}>RANDOM FACTS 🎁 </h3>
           <p style={{ fontSize: "18px" }} className={styles.smallText}>
             {" "}
             <b>
-              A blend of <span className="gradientText">my own judgments</span> + <span className="gradientText">what others say</span>.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..
             </b>
           </p>
           <ol className={`${styles.list} py-2`}>
             <li>
-              Life is all about <b>&quot;Perfect magical moments 💜&quot;</b>
+              text
             </li>
-            <li>I am head over heels, a whopping 108% in love, love, loveeee with NLP even as a beginner!</li>
-            <li>I am famous for my OCD, especially when it comes to keeping things super organised.</li>
-            <li>
-              Here&apos;s how my career dreams changed as I grew up: Air Hostess, Doctor, Film Director, Accountant, Academic Reseracher (can be a Doctor* again!!!)
-            </li>
-            <li>Sometimes I am struck by a flash energy to binge-watch a TV series in just one day.</li>
-            <li>Matplotlib is like my classic favourite and Plotly is the new beat that gets my heart racing.</li>
-            <li>Folks say that I have a tad less common sense.</li>
-            <li>
-              What if I&apos;m just pretending all along? <b>(Jinx!)</b>
-            </li>
+            <li>text</li>
           </ol>
           <div className="row justify-content-end">
             <div className="col-2 pe-5 pe-md-0">

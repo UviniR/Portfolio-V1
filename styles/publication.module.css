@@ -5,7 +5,6 @@
 
 .workCard:hover {
   background: rgba(30, 41, 59, 0.4);
-  /* background: #112240; */
 }
 
 .workCard:hover .viewButton {

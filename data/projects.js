@@ -2,28 +2,28 @@ import Image01 from "@public/assets/projects/img1.png"
 import Image02 from "@public/assets/projects/img2.png"
 import Image03 from "@public/assets/projects/img3.png"
 
-
+// currently the page is optimised to fit three project cards//
 const projects = [
     {
-        title: "Web App for Sentiment Analysis",
-        desc: "Fine-tuned a pre-trained HuggingFace model for sentiment analysis of customer reviews received by a hotel",
-        technologies: ["NLP", "PyTorch", "HuggingFace", "Streamlit"],
+        title: "title",
+        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        technologies: ["technology", "technology", "technology"],
         img: Image01,
-        link: "https://github.com/UviniR/Reviews-Sentiment-Analysis"
+        link: "https://github.com/"
     },
     {
-        title: "Web App for Online Quizzes",
-        desc: "Developed using Python, the web app allows teachers to create quizzes and students to attempt quizzes.",
-        technologies: ["Django", "MySQL", "HTML", "Bootstrap"],
+        title: "title",
+        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        technologies: ["technology", "technology", "technology"],
         img: Image02,
-        link: "https://github.com/UviniR/Quiz-Time"
+        link: "https://github.com/"
     },
     {
-        title: "NYC Yellow Taxi Trips Analysis",
-        desc: "Used Python commands on a Apache Hadoop cluster created on GCP to pre-process and analyse Big Data.",
-        technologies: ["GCP", "DataProc", "PySpark", "Looker"],
+        title: "title",
+        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        technologies: ["technology", "technology", "technology"],
         img: Image03,
-        link: "https://github.com/UviniR/NYC-Yellow-Taxi-Trips"
+        link: "https://github.com/"
     },
 
 ]

@@ -1,7 +1,7 @@
 const siteMetaData = {
-    url: 'https://uvini-ranaweera.web.app/',
-    title: `Uvini Ranaweera`,
-    description: 'An NLP enthusiast who loves incorporating data analytics for data-driven decision-making',
+    url: 'https://YourSite.com/',
+    title: `Site Title`,
+    description: 'description',
     year: '2024'
 }
 

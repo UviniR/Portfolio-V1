@@ -31,21 +31,21 @@ export default function Home() {
             <div>
               <h1 className={`col-md-8 py-lg-5 py-md-2 ${styles.coverText}`}>
                 {" "}
-                I&apos;m <b>Uvini Ranaweera</b> — an avid researcher who never gets tired of chasing after{" "}
-                <span className={styles.gradientText}>learning machines</span>👩🏻‍💻
+                I&apos;m <b>Your Name</b> — Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{" "}
+                <span className={styles.gradientText}>anything you need to highlight</span>
               </h1>
             </div>
             <div className="py-lg-5 py-3 d-flex align-items-center">
-              <Link href={"mailto:ranaweeraraua.19@uom.lk"} target="_blank" className={`${styles.icons} pe-4`}>
+              <Link href={"mailto:yourmail@mail.com"} target="_blank" className={`${styles.icons} pe-4`}>
                 <MdEmail size={24} />
               </Link>
-              <Link href={"https://www.linkedin.com/in/uvini-ranaweera-/"} target="_blank" className={`${styles.icons} pe-4`}>
+              <Link href={"https://www.linkedin.com"} target="_blank" className={`${styles.icons} pe-4`}>
                 <BiLogoLinkedin size={26} />
               </Link>
-              <Link href={"https://www.kaggle.com/uvinir"} target="_blank" className={`${styles.icons} pe-4`}>
+              <Link href={"https://www.kaggle.com"} target="_blank" className={`${styles.icons} pe-4`}>
                 <FaKaggle size={24} />
               </Link>
-              <Link href={"https://scholar.google.com/citations?user=P1ECyTcAAAAJ&hl=en"} target="_blank" className={`${styles.icons} pe-4`}>
+              <Link href={"https://scholar.google.com"} target="_blank" className={`${styles.icons} pe-4`}>
                 <SiGooglescholar size={24} />
               </Link>
             </div>
@@ -65,23 +65,23 @@ export default function Home() {
                 </h2>
                 <div className="bio-wrapper pt-5">
                   <p className={`${styles.smallText} text-center text-md-start`}>
-                    I’m a final-year Business Science undergraduate 👩🏻‍🎓 at{" "}
-                    <Link href={"http://uom.lk/business"} target={"_"} className={styles.uomLink}>
-                      <b>University of Moratuwa</b>
+                    I’m a student 👩🏻‍🎓 at{" "}
+                    <Link href={"http://university.com"} target={"_"} className={styles.uniLink}>
+                      <b>University Name</b>
                     </Link>
-                    , Sri Lanka 🇱🇰 <br></br>
+                    , country <br></br>
                     <br></br>
-                    Basically, I support data-driven decision-making 🤯 by developing Machine Learning models. When it comes to{" "}
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     <span className="bio-text">
-                      <b>Natural Language Processing</b>
+                      <b>what you do</b>
                     </span>
-                    , my excitement hits the roof!
+                    , what you do!
                     <span className="cartoon-character"></span>
                   </p>
                 </div>
                 <div className={`${styles.extraSmallText} pt-3 text-center text-md-start`} style={{ fontSize: "18px" }}>
                   View my{" "}
-                  <a className="navbar-brand" href="/Uvini_CV.pdf" target="_">
+                  <a className="navbar-brand" href="/CV.pdf" target="_">
                     <span className={styles.gradientText}>
                       <b>CV</b>
                     </span>
@@ -102,7 +102,7 @@ export default function Home() {
           <Publication />
           <div className={`${styles.extraSmallText} text-center py-md-5 py-4`} style={{ fontSize: "18px" }}>
             Feel free to explore{" "}
-            <a className="navbar-brand" href="https://scholar.google.com/citations?user=P1ECyTcAAAAJ&hl=en" target="_">
+            <a className="navbar-brand" href="https://scholar.google.com" target="_">
               <span className={styles.gradientText}>
                 <b>Google Scholar </b>
               </span>
@@ -121,7 +121,7 @@ export default function Home() {
           </div>
           <div className={`text-center ${styles.smallText} py-lg-4`} style={{ fontSize: "18px" }}>
             For an immersive experience, take a stroll through my{" "}
-            <a className="navbar-brand" href="https://github.com/UviniR" target="_">
+            <a className="navbar-brand" href="https://github.com" target="_">
               <span className={styles.gradientText}>
                 <b>GitHub repositories</b>
               </span>
