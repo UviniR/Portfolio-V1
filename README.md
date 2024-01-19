@@ -1,14 +1,15 @@
 
-<center>
-  <img alt="Logo" src="UviniR/portfolio/public/logo.png" width="100" />
+<div align="center">
 
-  ## Portfolio-Uvini Ranaweera - v1 
+  <img alt="Logo" src="/readme-assets/logo.png" width="80" />
+  <h1>uvini-ranaweera.web.app</h1>
 
-  This is the first release of my personal website [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).
+  This is the first release of my personal website [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).<br></br>
+  
+  ![demo](/readme-assets/demo.png "Demo")
+  
+</div>
 
-![demo](/UI-Screenshots/landing.png "Landing Page")
-
-</center>
 
 ## 🌟 Welcome to Fork 
 
