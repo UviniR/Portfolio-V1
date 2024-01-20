@@ -57,8 +57,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 | Dark Navy      | ![#0f172a](https://via.placeholder.com/10/0f172a?text=+) `#0f172a` |
 | Turquoise      | ![#5eead4](https://via.placeholder.com/10/5eead4?text=+) `#5eead4` |
 | Light Lavender | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
 | Medium Blue    | ![#646ffe](https://via.placeholder.com/10/646ffe?text=+) `#646ffe` |
+| White          | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
 | Bright Sky Blue| ![#14b2fa](https://via.placeholder.com/10/14b2fa?text=+) `#14b2fa` |
 | Pale Yellow    | ![#FCE694](https://via.placeholder.com/10/FCE694?text=+) `#FCE694` |
 
