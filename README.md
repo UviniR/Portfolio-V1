@@ -5,6 +5,7 @@
   <h1>uvini-ranaweera.web.app</h1>
 
   This is the first release of my portfolio [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).<br></br>
+[V2](https://github.com/UviniR/Portfolio-V2)
   
   ![demo](/readme-assets/demo.png "Demo")
   
