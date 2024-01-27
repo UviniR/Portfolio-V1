@@ -2,9 +2,9 @@
 <div align="center">
 
   <img alt="Logo" src="/readme-assets/logo.png" width="80" />
-  <h1>uvini-ranaweera.web.app</h1>
+  <h1>uvini.me</h1>
 
-  This is the first release of my portfolio [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).<br></br>
+  This is the first release of my portfolio [uvini.me](https://uvini.me) built with [Next.js](https://nextjs.org/) and hosted with [Firebase Hosting](https://firebase.google.com/docs/hosting).<br></br>
 [V2](https://github.com/UviniR/Portfolio-V2)
   
   ![demo](/readme-assets/demo.png "Demo")
@@ -14,7 +14,7 @@
 
 ## 🌟 Welcome to Fork 
 
-I'm pleased to welcome anyone interested in using my code to bring their website to life! 🚀 A little bit of acknowledgement goes a long way, so if you could give credit to my work by linking back to [uvini-ranaweera.web.app](https://uvini-ranaweera.web.app/), I'd be over the moon 🌝. 
+I'm pleased to welcome anyone interested in using my code to bring their website to life! 🚀 A little bit of acknowledgement goes a long way, so if you could give credit to my work by linking back to [uvini.me](https://uvini.me), I'd be over the moon 🌝. 
 
 As you can read through my bio, I am a Business Science undergraduate. Thus, building this site from scratch was never a one-man show -- BIGGEST SHOUTOUT to [Ranul Dayarathne](https://ranul-navojith.web.app/) 🎉
 
